@@ -1,5 +1,6 @@
 name: 'Repository Dispatch'
 description: 'Create a repository dispatch event'
+author: abine
 inputs:
   token:
     description: 'GITHUB_TOKEN or a `repo` scoped Personal Access Token (PAT)'
